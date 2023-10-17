@@ -15,3 +15,5 @@ Ricordatevi: il primo push deve essere del file README.md, il secondo con il fil
 Non perdete tempo sui dettagli: se non riuscite a posizionare precisamente una cosa o avete un problema simile, andate avanti. Fate più parti possibile della pagina sui dettagli ci tornate in un secondo momento magari con l'aiuto dei tutor se non riuscite a risolvere i problemi.
 Ricordatevi di pushare di tanto in tanto per consegnare il vostro lavoro in modo incrementale.
 Buon lavoro!
+
+ESERCIZIO COMPLETATO
