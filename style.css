@@ -4,13 +4,63 @@
     box-sizing: border-box;
 }
 
-
-
 .logo{
     background-image: url(./img/pattern.png);
-    background-color: blue;
-    height: 150px;
-    padding-top: 90px;
+    background-color: rgb(12, 184, 236);
+    background-size: 350px;
+    height: 90px;
+    padding-top: 40px;
     padding-left: 10px;
 }
 
+.autore{
+    color: blue;
+}
+
+.sottotitolo{
+    color: gray;
+    font-weight: bolder;
+    font-size: 19px;
+}
+
+.sottotitolo2{
+    color: gray;
+    font-weight: bolder;
+    font-size: 15px;
+}
+
+main{
+    margin: 15px;
+    padding: 5px;
+}
+
+.titolo{
+    font-size: 45px;
+    width: 1045px;
+}
+
+.sottolineatura{
+    background-color: yellow;
+}
+
+.ads{
+    display: block;
+}
+
+.photo{
+    margin-bottom: 10px;
+    margin-top: 15px;
+}
+
+.primariga{
+    background-color: rgb(0, 157, 255);
+    color: white;
+}
+
+.photo>p{
+    font-size: 12px;
+}
+
+.dimensioni{
+    width: 1000px;
+}
