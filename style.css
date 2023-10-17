@@ -84,3 +84,20 @@ footer{
     margin-top: 20px;
     margin-left: 15px;
 }
+
+#grafico{
+    background-image: url(./img/graph.jpg);
+    width: 200px;
+    height: 200px;
+    margin-top: 10px;
+}
+
+#computer{
+    background-image: url(./img/monitor.jpg);
+    width: 200px;
+    height: 200px;
+}
+
+.immagine{
+    color: white;
+}
